@@ -56,7 +56,7 @@ F2
 
 ## search through all files
 
-⌘ + ⇧ + E
+⌘ + ⇧ + F
 
 ## spawning multiple cursors
 
